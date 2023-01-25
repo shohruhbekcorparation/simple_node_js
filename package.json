@@ -1,0 +1,25 @@
+{
+  "name": "node_simple",
+  "version": "1.0.0",
+  "description": "node js learn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shohruhbekcorparation/simple_node_js.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Shohruhbek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shohruhbekcorparation/simple_node_js/issues"
+  },
+  "homepage": "https://github.com/shohruhbekcorparation/simple_node_js#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
